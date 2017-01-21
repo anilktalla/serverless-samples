@@ -1,0 +1,7 @@
+{
+  "name": "serverless-sample-rest-api",
+  "dependencies": {
+    "aws-sdk": "^2.7.21",
+    "uuid": "^3.0.1"
+  }
+}

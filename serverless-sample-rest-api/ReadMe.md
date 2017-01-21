@@ -3,7 +3,7 @@ AWS Serverless "todo" Sample!
 
 This sample implements a sample "todo" application following Serverless architecture which can be deployed to AWS platform. 
 
-![enter image description here](https://serverless.com/_/src/assets/images/serverless_logo.be2d3b90c0910b8d46efd441c96130ed.png)
+![enter image description here](http://cloudacademy.com/blog/wp-content/uploads/2016/05/serverless-framework.png)
 > **Note:**
 
 > - This sample is coded in NodeJS.
